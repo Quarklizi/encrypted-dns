@@ -20,9 +20,9 @@
 				<string>https://160449.alidns.com/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use AliDNS Encrypted DNS over TLS</string>
+			<string>Configures device to use QuarkDNS Encrypted DNS over TLS</string>
 			<key>PayloadDisplayName</key>
-			<string>AliDNS</string>
+			<string>QuarkDNS</string>
 			<key>PayloadIdentifier</key>
 			<string>cc.lxd.alidoh.dnsSettings.managed</string>
 			<key>PayloadType</key>
@@ -36,7 +36,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the AliDNS to iOS or MacOS</string>
+	<string>Adds the QuarkDNS to iOS or MacOS</string>
 	<key>PayloadDisplayName</key>
 	<string>QuarkDNS</string>
 	<key>PayloadIdentifier</key>
