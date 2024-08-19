@@ -38,7 +38,7 @@
 	<key>PayloadDescription</key>
 	<string>Adds the AliDNS to iOS or MacOS</string>
 	<key>PayloadDisplayName</key>
-	<string>AliDNS</string>
+	<string>QuarkDNS</string>
 	<key>PayloadIdentifier</key>
 	<string>cc.lxd.alidoh</string>
 	<key>PayloadRemovalDisallowed</key>
